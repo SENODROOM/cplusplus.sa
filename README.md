@@ -5,12 +5,14 @@ This directory contains C++ language examples showcasing object-oriented program
 ## 📁 Directory Structure
 
 ### 🎓 [fundamentals/](./fundamentals/)
+
 - **84 examples** covering basic C++ concepts
 - Variables, data types, control structures
 - Functions, arrays, pointers
 - Basic I/O operations
 
 ### 🔧 [OOPs/](./OOPs/)
+
 - **40 examples** demonstrating object-oriented programming
 - Classes and objects
 - Inheritance and polymorphism
@@ -18,14 +20,22 @@ This directory contains C++ language examples showcasing object-oriented program
 - Design patterns
 
 ### 🎮 [games/](./games/)
+
 - **guess game** - Number guessing game with OOP concepts
 
+### 🧠 [algorithms/](./algorithms/)
+
+- Structured sample set for algorithm practice
+- Basic algorithms, sorting/searching, greedy, graph, dp, and more
+
 ### 📚 [examples/](./examples/)
+
 - Ready for additional examples
 
 ## 🎯 Learning Objectives
 
 These examples teach:
+
 - **Object-Oriented Programming** - Classes, inheritance, polymorphism
 - **Modern C++ Features** - STL containers, smart pointers, lambda expressions
 - **Design Patterns** - Common software design patterns
@@ -48,6 +58,7 @@ These examples teach:
 ## 📖 Usage
 
 Each `.sa` file can be run with the Quantum Language interpreter:
+
 ```bash
 quantum example.sa
 ```
@@ -84,4 +95,4 @@ quantum example.sa
 
 ---
 
-*Ideal for learning modern C++ programming and object-oriented design principles.*
+_Ideal for learning modern C++ programming and object-oriented design principles._
