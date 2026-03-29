@@ -1,0 +1,277 @@
+Quantum Language — Test Results (in progress)
+Generated : 2026-03-29 17:44:04
+Directory : C:\Users\HP\OneDrive\Documents\Projects\Quantum-Language\examples\library\C++\
+Total     : 134   (running...)
+========================================================================
+
+[PASS] C++\OOPs\1.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK01.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK02.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK03.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK04.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK05.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK06.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK07.sa
+
+[PASS] C++\OOPs\Lab 1\LAB01-TASK08.sa
+
+[PASS] C++\OOPs\Lab 2\solution\LAB02-TASK01.sa
+
+[PASS] C++\OOPs\Lab 2\solution\LAB02-TASK02.sa
+
+[PASS] C++\OOPs\Lab 2\solution\LAB02-TASK03.sa
+
+[PASS] C++\OOPs\Lab 2\solution\LAB02-TASK04.sa
+
+[PASS] C++\OOPs\Lab 2\solution\LAB02-TASK05.sa
+
+[PASS] C++\OOPs\Lab 2\solution\LAB02-TASK06.sa
+
+[PASS] C++\OOPs\Lab 3\solution\LAB03-TASK01.sa
+
+[PASS] C++\OOPs\Lab 3\solution\LAB03-TASK02.sa
+
+[PASS] C++\OOPs\Lab 3\solution\LAB03-TASK03.sa
+
+[PASS] C++\OOPs\Lab 3\solution\LAB03-TASK04.sa
+
+[PASS] C++\OOPs\Lab 3\solution\LAB03-TASK05.sa
+
+[PASS] C++\OOPs\Lab 4\LAB01-TASK01.sa
+
+[PASS] C++\OOPs\Lab 5\LAB05-TASK01.sa
+
+[PASS] C++\OOPs\Lab 6\LAB06-TASK01.sa
+
+[PASS] C++\OOPs\Lab 7\LAB07-TASK01.sa
+
+[PASS] C++\OOPs\Lab 7\LAB07-TASK02.sa
+
+[PASS] C++\OOPs\Lab 7\LAB07-TASK03.sa
+
+[PASS] C++\OOPs\Lab 7\LAB07-TASK04.sa
+
+[PASS] C++\OOPs\Lab 7\LAB07-TASK05.sa
+
+[PASS] C++\advanced_algorithms_2.sa
+
+[PASS] C++\advanced_algorithms_comprehensive.sa
+
+[PASS] C++\advanced_bit_manipulation.sa
+
+[PASS] C++\advanced_dynamic_programming.sa
+
+[PASS] C++\advanced_graph_algorithms.sa
+
+[PASS] C++\advanced_matrix_operations.sa
+
+[PASS] C++\advanced_pattern_printing.sa
+
+[PASS] C++\backtracking_algorithms.sa
+
+[PASS] C++\bit_manipulation.sa
+
+[PASS] C++\disjoint_set_algorithms.sa
+
+[PASS] C++\dynamic_programming_advanced.sa
+
+[PASS] C++\fenwick_tree_algorithms.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q1.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q2.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q3.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q4.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q5.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q6.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q7.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 1\25L_3045_Q8.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q1.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q2.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q3.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q4.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q5.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q6.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q7.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 2\25L_3045_Q8.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 3\25L_3045_Q1.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 3\25L_3045_Q2.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 3\25L_3045_Q3.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 3\25L_3045_Q4.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 3\25L_3045_Q5.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 3\25L_3045_Q6.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 4\25L_3045_Q1.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 4\25L_3045_Q2.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 4\25L_3045_Q3.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 4\25L_3045_Q4.sa
+
+[PASS] C++\fundamentals\Assignments\Assignment 4\25L_3045_Q5.sa
+
+[PASS] C++\fundamentals\Lab\Lab 2\25L - 3045 (Q1).sa
+
+[PASS] C++\fundamentals\Lab\Lab 2\25L - 3045 (Q2).sa
+
+[PASS] C++\fundamentals\Lab\Lab 2\25L - 3045 (Q3).sa
+
+[PASS] C++\fundamentals\Lab\Lab 2\25L - 3045 (Q4).sa
+
+[PASS] C++\fundamentals\Lab\Lab 2\25L - 3045 (Q5).sa
+
+[PASS] C++\fundamentals\Lab\Lab 2\25L - 3045 (Q6).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q1).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q2).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q3).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q4).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q5).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q6).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q7).sa
+
+[PASS] C++\fundamentals\Lab\Lab 3\25L - 3045 (Q8).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q1).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q2).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q3).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q4).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q5).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q6).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q7).sa
+
+[PASS] C++\fundamentals\Lab\Lab 4\25L-3045 (Q8).sa
+
+[PASS] C++\fundamentals\Lab\Lab 5\25L - 3045 (Q1).sa
+
+[PASS] C++\fundamentals\Lab\Lab 5\25L - 3045 (Q2).sa
+
+[PASS] C++\fundamentals\Lab\Lab 5\25L - 3045 (Q3).sa
+
+[PASS] C++\fundamentals\Lab\Lab 5\25L - 3045 (Q4).sa
+
+[PASS] C++\fundamentals\Lab\Lab 5\25L - 3045 (Q5).sa
+
+[PASS] C++\fundamentals\Lab\Lab 5\25L - 3045 (Q6).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q1).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q10).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q2).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q3).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q4).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q5).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q6).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q7).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q8).sa
+
+[PASS] C++\fundamentals\Lab\Lab 6\25L - 3045 (Q9).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q1).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q10).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q2).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q3).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q4).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q5).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q6).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q7).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q8).sa
+
+[PASS] C++\fundamentals\Lab\Lab 7\25L-3045 (Q9).sa
+
+[PASS] C++\fundamentals\Lab\Lab 9\25L-3045.sa
+
+[PASS] C++\fundamentals\Lab\Mid\Solution\Q1.sa
+
+[PASS] C++\fundamentals\Lab\Mid\Solution\Q2.sa
+
+[PASS] C++\fundamentals\Lab\Mid\Solution\Q3.sa
+
+[PASS] C++\games\guess game.sa
+
+[PASS] C++\greedy_algorithms.sa
+
+[PASS] C++\heap_algorithms.sa
+
+[PASS] C++\matrix_algorithms.sa
+
+[PASS] C++\network_flow_algorithms.sa
+
+[PASS] C++\number_theory.sa
+
+[PASS] C++\parallel_algorithms.sa
+
+[PASS] C++\pattern_algorithms.sa
+
+[PASS] C++\search_algorithms.sa
+
+[PASS] C++\searching_advanced.sa
+
+[PASS] C++\segment_tree_algorithms.sa
+
+[PASS] C++\simple_algorithms.sa
+
+[PASS] C++\sorting_advanced.sa
+
+[PASS] C++\spiral_matrix.sa
+
+[PASS] C++\string_processing_advanced.sa
+
+========================================================================
+Result: ALL PASSED (134/134)
+Passed : 134   Failed : 0   Total : 134
